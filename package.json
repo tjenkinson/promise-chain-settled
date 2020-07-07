@@ -1,6 +1,6 @@
 {
   "name": "promise-chain-settled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a way of knowing when a promise chain is settled. Useful for testing.",
   "main": "dist/promise-chain-settled.js",
   "module": "dist/promise-chain-settled.es.js",
