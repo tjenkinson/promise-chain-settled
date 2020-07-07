@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/promise-chain-settled.svg)](https://badge.fury.io/js/promise-chain-settled)
+
 # promise-chain-settled
 
 Provides a way of knowing when a promise chain is settled. Useful for testing.
