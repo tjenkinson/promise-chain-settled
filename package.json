@@ -38,7 +38,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
-    "@types/jest": "^26.0.3",
+    "@types/jest": "^27.0.2",
     "husky": "^4.2.5",
     "infinite-queue": "^1.1.1",
     "jest": "^25.5.4",
