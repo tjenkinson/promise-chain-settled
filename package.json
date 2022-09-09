@@ -37,7 +37,7 @@
   "homepage": "https://github.com/tjenkinson/promise-chain-settled#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.0.0",
-    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-node-resolve": "^14.0.1",
     "@types/jest": "^26.0.3",
     "husky": "^4.2.5",
     "infinite-queue": "^1.1.1",
